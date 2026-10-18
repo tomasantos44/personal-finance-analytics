@@ -95,7 +95,7 @@ It also includes three visualizations:
 - Expenses by category
 - Income by source
 
-![Personal Finance Analytics Dashboard](dashboard.png)
+![Personal Finance Analytics Dashboard](Dashboard 2.png)
 
 ## Workbook Structure
 
